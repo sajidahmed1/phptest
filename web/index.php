@@ -10,6 +10,9 @@
 <body>
 	<div>
 		<h1>hello testing php application</h1>
+		<?php
+		echo "Hello World!";
+		?>
 	</div>
 </body>
 </html>
